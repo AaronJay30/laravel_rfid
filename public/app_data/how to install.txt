@@ -1,0 +1,8 @@
+run in cmd 
+
+python -m PyInstaller -F --noconsole --distpath=./RFID-Reader --icon=rfid.png --name=RFID-Reader main.py
+
+
+How to check the COM Port:
+Step 1: Open Device Manager
+Step 2:
